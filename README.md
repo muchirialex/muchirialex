@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/muchirialex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lcscostadev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcscostadev&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muchirialex&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchirialex&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 ##
@@ -18,10 +18,10 @@
 <div align="center"> 
 <!--   <a href="http://youtube.com/c/UC34-Ya9LsJ6GCgIlpMJYvUQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <!-- <a href="https://instagram.com/lcscostaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-<a href="https://www.twitter.com/lcscostadev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+<a href="https://www.twitter.com/muchirialex" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
 <!--  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href = "mailto:hey@muchirialex.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lcscostadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/muchirialex" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
 <img src="programmer.svg" style="width:400px; padding:10px 0px;">
   
@@ -36,6 +36,6 @@
   <img align="center" alt="Lucs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
  
-  ![Snake animation](https://github.com/lcscostadev/lcscostadev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/muchirialex/muchirialex/blob/output/github-contribution-grid-snake.svg)
  
 </div>
